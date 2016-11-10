@@ -1,6 +1,8 @@
 Node.js sample app on OpenShift!
 -----------------
 
+test
+
 This example will serve a welcome page and the current hit count as stored in a database.
 
 ### OpenShift Origin v3 setup
